@@ -1,0 +1,119 @@
+.wrap{
+    width: 500px;
+    height: 1000px;
+    margin:0 auto ;
+}
+.font6{
+    width: 48%;
+    height: 80px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+}
+.font4{
+    width: 31%;
+    height: 80px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.font3{
+    width: 23%;
+    height: 80px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.font8{
+    width: 69%;
+    height: 80px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.font06{
+    width: 48%;
+    height: 80px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.font08{
+    width: 69%;
+    height: 300px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.font04{
+    width: 30%;
+    height: 280px;
+    background-color: #007bff;
+    border: 10px solid lightgray;
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 20px;
+}
+.row{
+    width: 98%;
+    margin: 0 auto;
+}
+.font2{
+    width: 50px;
+    height: 60px;
+    background-color: red;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+}
+.font10{
+    width: 50px;
+    height: 60px;
+    background-color: springgreen;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+}
+.row1{
+    width: 98%;
+    height: 70px;
+    background-color: white;
+    border: 5px solid white;
+    float: left;
+}
+.row01{
+    background-color: lightgray;
+    margin-top: 10px;
+}
+.font012{
+    width: 95%;
+    height: 50px;
+    background-color: darkblue;
+    margin-top: 10px;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+
+}

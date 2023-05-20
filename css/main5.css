@@ -1,0 +1,112 @@
+body{
+    background-color: whitesmoke;
+}
+.wrap{
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+.row{
+    width: 95%;
+    margin: 0 auto;
+}
+.font3{
+    margin-top: 20px;
+    width: 27%;
+    height: 100px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1.8rem 5rem;
+    box-sizing: border-box;
+    color: white;
+}
+.font03{
+    width:  27%;
+    height: 110px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2.5rem 4rem;
+    box-sizing: border-box;
+    color: white;
+
+}
+p{
+    float: left;
+}
+h4{
+    float: left;
+}
+.font9{
+    width: 70%;
+    height: 60px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0.5rem 18rem;
+    box-sizing: border-box;
+    color: white;
+    margin-top: 58px;
+}
+.font12{
+    width: 95%;
+    height: 120px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2.5rem 25rem;
+    box-sizing: border-box;
+    color: white;
+}
+.font09{
+    width:70%;
+    height: 110px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2.5rem 18rem;
+    box-sizing: border-box;
+    color: white;
+}
+.font4{
+    width:31%;
+    height:75px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1.2rem 6rem;
+    box-sizing: border-box;
+    color: white;
+
+}
+.font6{
+    width:48%;
+    height: 85px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1.3rem 11rem;
+    box-sizing: border-box;
+    color: white;
+}
+.font06{
+    width:48%;
+    height: 50px;
+    background-color: red;
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0.5rem 11rem;
+    box-sizing: border-box;
+    color: white;
+
+}

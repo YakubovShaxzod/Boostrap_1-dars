@@ -1,0 +1,82 @@
+.wrap{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+.font01{
+    width: 7%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+
+}
+.font1{
+    width: 7%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+    color: #4e555b;
+}
+.font04{
+    width: 31%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+}
+.font4{
+    width: 31%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+    color: #4e555b;
+}
+.font8{
+    width: 67%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+    color: #4e555b;
+}
+.font06{
+    width: 47%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+}
+.font6{
+    width: 7%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+    color: #4e555b;
+}
+.font12{
+    width: 7%;
+    height: 3%;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: mediumpurple;
+}
